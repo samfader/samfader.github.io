@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://samfader.github.io/work/sound-map/</loc>
+    <lastmod>2018-04-24T20:47:35+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://samfader.github.io/work/</loc>
     <lastmod>2017-07-02T08:15:25+07:00</lastmod>
   </url>
@@ -63,6 +68,12 @@
   <url>
     <loc>http://samfader.github.io/tags/hugo/</loc>
     <lastmod>2017-06-24T20:47:35+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://samfader.github.io/tags/maps/</loc>
+    <lastmod>2018-04-24T20:47:35+07:00</lastmod>
     <priority>0</priority>
   </url>
   

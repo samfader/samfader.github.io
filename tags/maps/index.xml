@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maps on Sam Fader</title>
+    <link>http://samfader.github.io/tags/maps/</link>
+    <description>Recent content in Maps on Sam Fader</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2018 Sam Fader</copyright>
+    <lastBuildDate>Tue, 24 Apr 2018 20:47:35 +0700</lastBuildDate>
+    
+	<atom:link href="http://samfader.github.io/tags/maps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sound of Sam</title>
+      <link>http://samfader.github.io/work/sound-map/</link>
+      <pubDate>Tue, 24 Apr 2018 20:47:35 +0700</pubDate>
+      
+      <guid>http://samfader.github.io/work/sound-map/</guid>
+      <description>A map containing sound snippets I&amp;rsquo;ve recorded in various places across the world (well, so far, just the US).
+Features Like I said, it&amp;rsquo;s really minimal. Its doesn&amp;rsquo;t even have grid or anything nice like that.
+ Configurable color! Code Highlighting (HighlightJS). Responsive. Social Icon Links. No Grid no worry. Translatable.  Manis&amp;rsquo; Colorful scheme</description>
+    </item>
+    
+  </channel>
+</rss>
