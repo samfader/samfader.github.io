@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://samfader.github.io/about/</loc>
+    <lastmod>2018-12-24T18:57:12+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://samfader.github.io/blog/first_post/</loc>
     <lastmod>2018-12-22T07:29:57-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://samfader.github.io/work/columbia-dammed/</loc>
+    <lastmod>2018-10-24T20:47:35+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://samfader.github.io/work/nyc-land-use/</loc>
+    <lastmod>2018-07-10T20:47:35+07:00</lastmod>
   </url>
   
   <url>
@@ -23,57 +38,20 @@
   </url>
   
   <url>
-    <loc>http://samfader.github.io/about/license/</loc>
-    <lastmod>2017-06-24T20:50:41+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://samfader.github.io/work/manis-hugo-theme/</loc>
-    <lastmod>2017-06-24T20:47:35+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://samfader.github.io/about/</loc>
-    <lastmod>2017-06-24T18:57:12+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://samfader.github.io/blog/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://samfader.github.io/blog/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://samfader.github.io/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>http://samfader.github.io/tags/javascript/</loc>
+    <lastmod>2018-10-24T20:47:35+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://samfader.github.io/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://samfader.github.io/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://samfader.github.io/tags/hugo/</loc>
-    <lastmod>2017-06-24T20:47:35+07:00</lastmod>
+    <loc>http://samfader.github.io/tags/mapbox/</loc>
+    <lastmod>2018-10-24T20:47:35+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://samfader.github.io/tags/maps/</loc>
-    <lastmod>2018-04-24T20:47:35+07:00</lastmod>
+    <lastmod>2018-10-24T20:47:35+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -84,20 +62,14 @@
   </url>
   
   <url>
+    <loc>http://samfader.github.io/tags/story/</loc>
+    <lastmod>2018-10-24T20:47:35+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://samfader.github.io/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://samfader.github.io/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://samfader.github.io/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-24T20:47:35+07:00</lastmod>
     <priority>0</priority>
   </url>
   

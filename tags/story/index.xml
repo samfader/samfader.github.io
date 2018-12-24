@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Story on Sam Fader</title>
+    <link>http://samfader.github.io/tags/story/</link>
+    <description>Recent content in Story on Sam Fader</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2018 Sam Fader</copyright>
+    <lastBuildDate>Wed, 24 Oct 2018 20:47:35 +0700</lastBuildDate>
+    
+	<atom:link href="http://samfader.github.io/tags/story/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Columbia Dammed</title>
+      <link>http://samfader.github.io/work/columbia-dammed/</link>
+      <pubDate>Wed, 24 Oct 2018 20:47:35 +0700</pubDate>
+      
+      <guid>http://samfader.github.io/work/columbia-dammed/</guid>
+      <description>A story map about the great Columbia River in Canada and the Pacific Northwest of the US. Explore it here.</description>
+    </item>
+    
+  </channel>
+</rss>
